@@ -1,2 +1,4 @@
 # Digital_Clock.Cpp
-Is not finished yet... but is almost it (Digital Clock)
+A C/C++ application of a Digital Clock that counts backward to zero!
+It's not finished yet... But is almost there.
+Enjoy!
